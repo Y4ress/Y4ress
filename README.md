@@ -2,9 +2,9 @@
 
 I'm [Jeremy](https://github.com/Y4ress), a programmer born in Poland.
 
-I build apps, websites and even working on a game project.
+I build apps, websites, and I’m even working on a game project.
 
-There is still so much to learn for me, and that's the thing i love the most, I never get bored.
+There’s still so much for me to learn, and that’s exactly what I love the most — I never get bored.
 
 Fun Facts:
 

@@ -1,6 +1,6 @@
 # Hey there! 
 
-I'm [Jeremy](https://github.com/Y4ress), i'm a Polish programmer.
+I'm [Jeremy](https://github.com/Y4ress), a programmer born in Poland.
 
 I build apps, websites and even working on a game project.
 

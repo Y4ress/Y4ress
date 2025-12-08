@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Y4ress/Y4ress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Jeremy](https://github.com/Y4ress), i'm a Polish programmer.
 
-Here are some ideas to get you started:
+I build apps, websites and even working on a game project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There is still so much to learn for me, and that's the thing i love the most, I never get bored.
+
+Fun Facts:
+
+* I love photography, when i have free time, i'll always shoot a couple of pics
+* I actually hate coffee, not really my thing
+* I am learning Greek right now
+* I lived in Sweden for 6 years. My Swedish is a bit rusty, but still good enough to hold a conversation :D
+* My love for philosophy is bigger than my ability to fully understand it sometimes

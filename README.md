@@ -8,8 +8,8 @@ There is still so much to learn for me, and that's the thing i love the most, I 
 
 Fun Facts:
 
-* I love photography, when i have free time, i'll always shoot a couple of pics
-* I actually hate coffee, not really my thing
+* I love photography. Whenever I have free time, I’ll always snap a few pics
+* I actually hate coffee. It’s really not my thing
 * I am learning Greek right now
 * I lived in Sweden for 6 years. My Swedish is a bit rusty, but still good enough to hold a conversation :D
 * My love for philosophy is bigger than my ability to fully understand it sometimes

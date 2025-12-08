@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hey there! 
 
 I'm [Jeremy](https://github.com/Y4ress), i'm a Polish programmer.
 

@@ -10,7 +10,6 @@ Fun Facts:
 
 * I love photography. Whenever I have free time, I’ll always snap a few pics
 * I actually hate coffee. It’s really not my thing
-* I am learning Greek right now
 * I lived in Sweden for 6 years. My Swedish is a bit rusty, but still good enough to hold a conversation :D
-* My love for philosophy is bigger than my ability to fully understand it sometimes
+* My love for philosophy is bigger than my ability to fully understand it
 * I also game, here is my steam profile: https://steamcommunity.com/id/gamingx-gatok/
